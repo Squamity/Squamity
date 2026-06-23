@@ -7,7 +7,7 @@ BANNER SETUP
 <img src="assets/banner.png" alt="Squamity Banner" width="100%" onerror="this.style.display='none'">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Clayton+Obama+%7C+Squamity;Freelance+Purple+Hat;Exploit+Developer;SOC+%26+Malware+Analyst;Surabaya%2C+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=500&color=e20000&center=true&vCenter=true&width=500&lines=Clayton+Obama+%7C+Squamity;Freelance+Purple+Hat;Exploit+Developer;SOC+%26+Malware+Analyst;Surabaya%2C+Indonesia" alt="Typing SVG" />
 </h1>
 
 <pre align="center">
@@ -56,9 +56,9 @@ BANNER SETUP
 
 <div align="left">
 
-### 🕵️ **Purple Hat Researcher** • **Security Enthusiast** • **Code Breaker**
+### 🕵️ **Purple Hat Researcher** • **Security Enthusiast**
 
-Saya menjembatani dunia **offensive** dan **defensive** security. Sebagai Purple Hat, saya tidak hanya menemukan celah keamanan, tapi juga membangun pertahanan yang kuat.
+I bridge the worlds of offensive and defensive in cyber. As a Purple Hat, I'm not only find security vulnerabilities, but also build strong defenses against vulnerabilities.
 
 ```bash
 ┌─[ MISSION OBJECTIVES ]─────────────────────────────────────────┐
