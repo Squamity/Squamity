@@ -7,7 +7,7 @@ BANNER SETUP
 <img src="assets/banner.png" alt="Squamity Banner" width="100%" onerror="this.style.display='none'">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=500&color=e20000&center=true&vCenter=true&width=500&lines=Clayton+Obama+%7C+Squamity;Freelance+Purple+Hat;Exploit+Developer;SOC+%26+Malware+Analyst;Surabaya%2C+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=500&color=dbc40e&center=true&vCenter=true&width=500&lines=Clayton+Obama+%7C+Squamity;Freelance+Purple+Hat;Exploit+Developer;SOC+%26+Malware+Analyst;Surabaya%2C+Indonesia" alt="Typing SVG" />
 </h1>
 
 <pre align="center">
@@ -36,16 +36,16 @@ BANNER SETUP
 ┌──(root㉿Squamity)-[~/exploits]
 └─$ whoami --verbose
 
-╔════════════════════════════════════════════════════════════════╗
-║  IDENTITY MATRIX                                               ║
-╠════════════════════════════════════════════════════════════════╣
-║  User      : Clayton Obama                                     ║
-║  Alias     : Squamity                                          ║
-║  Role      : Freelance Purple Hat                              ║
-║  Craft     : Exploit Dev • SOC • Malware Analysis              ║
-║  Location  : Surabaya, Indonesia                               ║
-║  Motto     : "Good and evil based on perspective"              ║
-╚════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════╗
+║  IDENTITY MATRIX                                                    ║
+╠═════════════════════════════════════════════════════════════════════╣
+║  User      : Clayton Obama                                          ║
+║  Alias     : Squamity                                               ║
+║  Role      : Freelance Purple Hat                                   ║
+║  Craft     : Exploit Dev • SOC • Malware Analysis                   ║
+║  Location  : Surabaya, Indonesia                                    ║
+║  Motto     : "Good and evil only based on perspective"              ║
+╚═════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -124,9 +124,6 @@ I bridge the worlds of offensive and defensive in cyber. As a Purple Hat, I'm no
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Squamity&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
-### 🏆 Achievement Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Squamity&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15)
-
 ### 📊 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Squamity&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00d4ff)
 
@@ -168,10 +165,6 @@ Format: https://visitor-badge.laobi.icu/badge?page_id=[USERNAME].[USERNAME]
 
 <div align="center">
 
-```
-
-║  🔓 SESSION TERMINATED • CONNECTION SECURED • MISSION ACCOMPLISHED 🔒  │
-
-```
+`║  🔓 SESSION TERMINATED • CONNECTION SECURED • MISSION ACCOMPLISHED 🔒  │`
 
 ### 🖥️ **[ END OF TRANSMISSION ]**
